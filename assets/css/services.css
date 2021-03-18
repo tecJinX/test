@@ -60,10 +60,10 @@ a {
 
 #services-acc {
   margin: 75px 0;
-  margin: 20px;
   margin-top: 30px;
   margin-bottom: 30px;
   font-family: Roboto, sans-serif;
+  background-color: rgba(82,174,81,0.42);
 }
 
 .btn.btn-outline-primary.btn-block.services-acc {
