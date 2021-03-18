@@ -83,10 +83,6 @@ services-acc .h3, h3 {
   color: rgb(227,227,227);
 }
 
-#services-acc .col-3-div {
-  margin-right: 0px;
-}
-
 #services-acc .dark {
   background-color: rgba(0,0,0,0.85);
 }
