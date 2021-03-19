@@ -60,10 +60,10 @@ a {
 
 #services-acc {
   font-family: Roboto, sans-serif;
-  background-color: rgba(82,174,81,0.42);
-  margin-bottom: 15px;
   padding: 30px 0;
   padding-bottom: 60px;
+  margin-bottom: 15px;
+  padding-right: 10px;
 }
 
 .btn.btn-outline-primary.btn-block.services-acc {
@@ -101,6 +101,7 @@ services-acc .h3, h3 {
   padding: 25px;
   margin-right: 10px;
   margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 #Consult {
@@ -118,22 +119,15 @@ services-acc .h3, h3 {
 
 #services-acc h2 {
   font-size: 52px;
-  font-weight: 400;
+  font-weight: 600;
   margin-bottom: 25px;
-}
-
-@media (min-width: 768px) {
-  #Consult h2 {
-    font-size: 62px;
-    font-weight: 600;
-    margin-bottom: 25px;
-  }
 }
 
 #Consult h2 {
-  font-size: 62px;
-  font-weight: 600;
+  font-size: 65px;
+  font-weight: bold;
   margin-bottom: 25px;
+  font-family: Poppins, sans-serif;
 }
 
 .btn.btn-primary.consult-btn {
@@ -163,6 +157,8 @@ Consult .div-h3 h3 {
 .consult-div-2 {
   padding-top: 50px;
   padding-bottom: 50px;
+  min-width: 0px;
+  margin: 0 auto;
 }
 
 .consult-div-2 h3 {
