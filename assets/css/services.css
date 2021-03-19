@@ -47,9 +47,9 @@ a {
 .div-services-acc {
   text-align: center;
   background: #0c4975;
-  padding: 45px;
+  padding: 25px;
   color: #fff;
-  border-radius: 5px;
+  border-radius: 0px;
   margin-bottom: 12px;
   margin-right: 12px;
 }
@@ -59,11 +59,11 @@ a {
 }
 
 #services-acc {
-  margin: 75px 0;
-  margin-top: 30px;
-  margin-bottom: 30px;
   font-family: Roboto, sans-serif;
   background-color: rgba(82,174,81,0.42);
+  margin-bottom: 15px;
+  padding: 30px 0;
+  padding-bottom: 60px;
 }
 
 .btn.btn-outline-primary.btn-block.services-acc {
@@ -90,7 +90,7 @@ services-acc .h3, h3 {
 .services-acc-h2 span {
   font-weight: 600;
   font-family: Poppins, sans-serif;
-  font-size: 82px;
+  font-size: 80px;
   color: #6385cd;
 }
 
@@ -98,10 +98,9 @@ services-acc .h3, h3 {
   text-align: center;
   background-color: rgba(51,51,51,0.8);
   color: #ffffff;
-  padding: 10px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 25px;
   margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 #Consult {
@@ -111,16 +110,15 @@ services-acc .h3, h3 {
   margin-left: 10px;
   margin-right: 10px;
   width: 100%;
-  height: 100vh;
-  background-image: url("../../assets/img/digital-marketing-1944491_1280.png");
+  height: 100%;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #services-acc h2 {
-  font-size: 42px;
-  font-weight: 600;
+  font-size: 52px;
+  font-weight: 400;
   margin-bottom: 25px;
 }
 
@@ -163,14 +161,15 @@ Consult .div-h3 h3 {
 }
 
 .consult-div-2 {
-  margin: 50px 0;
   padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .consult-div-2 h3 {
-  font-size: 52px;
+  font-size: 62px;
   margin-bottom: 35px;
-  color: rgb(38,38,38);
+  color: rgba(0,0,0,0.83);
+  background-color: rgba(255,255,255,0.25);
 }
 
 #Consult .icon.ion-ios-arrow-right {
