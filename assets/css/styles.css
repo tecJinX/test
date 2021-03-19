@@ -1,0 +1,48 @@
+.div-services-acc {
+  text-align: center;
+  background: #0c4975;
+  padding: 25px;
+  color: #fff;
+  border-radius: 0px;
+  margin-bottom: 12px;
+  margin-right: 12px;
+}
+
+.btn.btn-primary.services-acc {
+  margin-bottom: 10PX;
+}
+
+#services-acc {
+  font-family: Poppins, sans-serif;
+  margin-bottom: 15px;
+  padding: 30px 0;
+  padding-bottom: 60px;
+}
+
+.btn.btn-outline-primary.btn-block.services-acc {
+  color: rgb(255,255,255);
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+}
+
+.services-acc-link {
+  color: #fff;
+}
+
+services-acc .h3, h3 {
+  font-size: 32px;
+  font-weight: 500;
+  font-family: Poppins, sans-serif;
+  color: rgb(227,227,227);
+}
+
+#services-acc .dark {
+  background-color: rgba(0,0,0,0.85);
+}
+
+#services-acc h2 {
+  font-size: 42px;
+  font-weight: 500;
+  max-width: 700px;
+}
+
