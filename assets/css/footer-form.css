@@ -1,0 +1,123 @@
+.btn.btn-success.btn-block {
+}
+
+.btn.btn-success.btn-block {
+  border-radius: 12px;
+  font-family: Poppins, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 15px 42px;
+  background-color: rgba(40,179,72,0.99);
+}
+
+form {
+  font-size: 17px;
+  background-color: rgba(255,255,255,0);
+  border-radius: 18px;
+  max-width: 520px;
+  padding: 25px;
+}
+
+.form-control {
+  background: rgba(255,255,255,0);
+  font-size: 18px;
+  font-family: Poppins, sans-serif;
+  color: rgb(255,255,255);
+  border: 1px solid rgba(255,255,255,0.88);
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  border-radius: 0px;
+}
+
+#footer-form label {
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.form-control:focus {
+  color: #ffffff;
+  border-color: rgba(128,189,255,0);
+  outline: 0;
+  background-color: #8034bc;
+  font-size: 19px;
+}
+
+#footer-form {
+  background-color: #8034bc;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 0;
+  padding-top: 25px;
+  padding-bottom: 45px;
+}
+
+@media (min-width: 576px) {
+  .row {
+    color: rgb(255,255,255);
+    padding: 35px;
+  }
+}
+
+.row {
+  color: rgb(255,255,255);
+  padding: 25px;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+#footer-form h4 {
+  font-size: 36px;
+  font-family: Poppins, sans-serif;
+  margin-bottom: 32px;
+  font-weight: 600;
+}
+
+h5 {
+}
+
+#footer-form a {
+  font-size: 35px;
+  font-weight: 600;
+  color: #f7c40e;
+}
+
+#contact-home .h2, h2 {
+  font-size: 36px;
+  font-family: Poppins, sans-serif;
+}
+
+@media (min-width: 992px) {
+  #contact-home .h2, h2 {
+    font-size: 46px;
+    font-family: Poppins, sans-serif;
+    padding-bottom: 20px;
+  }
+}
+
+.div-2p {
+  font-family: Poppins, sans-serif;
+  font-size: 18px;
+}
+
+#col-2 .div2-btn {
+  background-color: rgb(57,57,57);
+  padding: 16px 28px;
+  font-size: 18px;
+}
+
+#col-1 .div-form {
+  margin-left: 0px;
+}
+
+@media (min-width: 992px) {
+  #col-1 .div-form {
+    margin-left: 60px;
+  }
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display: block;
+}
+
