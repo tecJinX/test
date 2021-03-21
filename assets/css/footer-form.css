@@ -7,7 +7,7 @@
   font-size: 18px;
   font-weight: bold;
   padding: 15px 42px;
-  background-color: rgba(40,179,72,0.99);
+  background-color: rgba(251,88,75,0.85);
 }
 
 form {
@@ -63,8 +63,8 @@ form {
 .row {
   color: rgb(255,255,255);
   padding: 25px;
-  padding-bottom: 10px;
   padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 #footer-form h4 {

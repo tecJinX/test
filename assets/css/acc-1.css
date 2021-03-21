@@ -41,7 +41,8 @@
 
 @media (min-width: 768px) {
   #acc-1 .h1, h1 {
-    font-size: 55px;
+    font-size: 62px;
+    font-weight: 400;
   }
 }
 
@@ -113,15 +114,13 @@ a {
 }
 
 .btn.btn-primary.nav {
-  padding-top: 7px;
-  padding-right: 18px;
-  padding-left: 18px;
-  padding-bottom: 8px;
   font-family: Poppins, sans-serif;
   color: #ffffff;
-  border-radius: 8px;
+  border-radius: 50px;
   border: 2px solid;
   font-weight: 400;
+  background-color: rgba(237,166,160,0);
+  padding: 8px 24px;
 }
 
 .input {
@@ -160,5 +159,14 @@ a {
   .col-10.offset-1 {
     padding: 0px 15px;
   }
+}
+
+.design-10-div {
+  color: #333;
+}
+
+#rpf p {
+  color: rgba(255,255,255,0.85);
+  padding-bottom: 16px;
 }
 
